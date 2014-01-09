@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map for Stackable_Motorshield
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LXR_CB_Gas_Sensor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+turn_on_led	KEYWORD2
+turn_off_led	KEYWORD2
+turn_on_alarm	KEYWORD2
+turn_off_alarm	KEYWORD2
+turn_on_sensor	KEYWORD2
+turn_off_sensor	KEYWORD2
+read_gas_sensor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
